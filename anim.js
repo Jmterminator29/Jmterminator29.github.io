@@ -18,6 +18,19 @@ var lyricsData = [
   { text: "", time: 78 },
   { text: "", time: 83 },
   { text: "", time: 91 },
+  { text: "", time: 97 },
+  { text: "", time: 104 },
+  { text: "", time: 108 },
+  { text: "", time: 144 },
+  { text: "", time: 148 },
+  { text: "", time: 153 },
+  { text: "", time: 158 },
+  { text: "", time: 164 },
+  { text: "", time: 169 },
+  { text: "", time: 176 },
+  { text: "", time: 183 },
+  { text: "", time: 188 },
+  { text: "", time: 140 },
 ];
 
 // Animar las letras
