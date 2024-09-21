@@ -45,7 +45,7 @@ body {
   color: yellow;
   position: absolute;
   font-weight: bold;
-  letter-spacing: 08px;
+  letter-spacing: 10px;
   opacity: 0;
   animation: fadeIn 10s ease-in-out forwards;
   text-align: center;
